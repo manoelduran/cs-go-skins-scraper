@@ -1,0 +1,4 @@
+.venv
+.DS_Store
+dados_items.csv
+src/__pycache__/text_example.cpython-311-pytest-8.1.1.pyc
